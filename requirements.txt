@@ -1,0 +1,7 @@
+pandas
+matplotlib
+ydata-profiling
+streamlit_pandas_profiling
+streamlit
+pickle
+pycaret
