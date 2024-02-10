@@ -10,12 +10,12 @@ by the help of streamlit's streamit_pandas_profiling further we can display the 
 and atlast we can download the trained best model by clickinn download
 
 # Requirements
-PyCaret is tested and supported on 64-bit systems with:
+Supported on 64-bit systems with:
 Python 3.8, 3.9, 3.10, and 3.11
 Ubuntu 16.04 or later
 Windows 7 or later
 
-# IMPORTANT PACKAGES USED
+# IMPORTANT PACKAGES 
 # PyCaret 3.0
 An open-source, low-code machine learning library in Python
 PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that exponentially speeds up the experiment cycle and makes you more productive.
